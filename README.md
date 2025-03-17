@@ -39,7 +39,7 @@ This dataset incorporates:
 - Geographic data from reputable sources including:
   - [NASA Visible Earth topography data](https://visibleearth.nasa.gov/images/73934/topography)
   - [Natural Earth Data cultural vectors](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
-  - [NASA Earth Observatory lights data](https://earthobservatory.nasa.gov/features/NightLights)
+  - [NASA Earth Observatory data](https://earthobservatory.nasa.gov/features/NightLights)
 
 ## Sample Visualizations
 
