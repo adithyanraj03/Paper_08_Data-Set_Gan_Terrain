@@ -117,6 +117,10 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3). This
 For full license details, see the LICENSE file.
 
 ## Full Data Access
+
+This is a sample of our complete dataset. Researchers interested in collaboration or requiring access to the full dataset should contact directly.<br><br>
+<b>*We are currently limited by Git LFS bandwidth constraints, which we plan to upgrade upon publication of our research. This will allow for full dataset access and higher resolution samples for the research community.*</b>
+
 This is a sample of our complete dataset. Researchers interested in collaboration or requiring access to the full dataset should contact directly.
 
 ## Contact
