@@ -113,10 +113,9 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3). This
 * The software is free to use and open source
 * You can modify and distribute the software
 * Commercial use requires licensing from the original authors
-<br>
-For full license details, see the
-[LICENSE](https://github.com/adithyanraj03/Paper_08_Data-Set_Gan_Terrain/blob/master/LICENSE) 
-file.
+
+For full license details, see the [LICENSE](https://github.com/adithyanraj03/Paper_08_Data-Set_Gan_Terrain/blob/main/LICENSE) file 
+
 
 ## Full Data Access
 
