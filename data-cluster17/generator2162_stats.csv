@@ -1,0 +1,8 @@
+data_type,min_value,max_value,mean_value,std_dev
+height,0.0,18661.0,2867.2184715270996,2644.6087164707124
+terrain,86.0,250.0,209.13075256347656,24.189785660588857
+
+metric,value
+correlation,-0.537442571717266
+height_gradient_magnitude,256768.11102104187
+terrain_gradient_magnitude,197.48694324493408
