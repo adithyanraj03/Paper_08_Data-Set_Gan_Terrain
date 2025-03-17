@@ -1,6 +1,6 @@
 
 ## Overview
-This repository contains a structured dataset of terrain information designed for advanced computational research in geographic data modeling. The data combines synthetically generated terrain models with real-world geographic data from authoritative sources.
+This repository contains a structured dataset of terrain information designed for advanced computational research in geographic data modeling. The data combines synthetically generated terrain models with real-world geographic data from authoritative sources.<br><br>
 This sample represents a subset of a larger comprehensive dataset used in our research. The data has been organized into clusters for easier navigation and sampling.
 
 ## Repository Structure
@@ -45,25 +45,25 @@ This dataset incorporates:
 
 Below are examples of the different visualization types included in this dataset:
 
-*Cluster : generator0028*
+<b>*Cluster : generator0028*<b>
 
 ### Heightmap Representation
 
 ![generator0028_h](https://github.com/user-attachments/assets/75db6267-6791-4de7-b694-d3ba845fabc3)
 
-Grayscale representation of elevation values where brightness corresponds to height
+*Grayscale representation of elevation values where brightness corresponds to height*
 
 ### Classification Map
 
 ![generator0028_i2](https://github.com/user-attachments/assets/ae1e3c21-d554-4d64-a06e-073755c51464)
 
-Color-coded representation of terrain types and surface features
+*Color-coded representation of terrain types and surface features*
 
 ### Texture Map
 
 ![generator0028_t](https://github.com/user-attachments/assets/27536ff1-39d0-4163-89d5-7db995c183a0)
 
-Color-textured visualization with relief shading to highlight topographical features
+*Color-textured visualization with relief shading to highlight topographical features*
 
 
 
@@ -71,14 +71,14 @@ Color-textured visualization with relief shading to highlight topographical feat
 
 ![generator0028_ih](https://github.com/user-attachments/assets/40dc8414-e31d-4306-b577-641711934e4c)
 
-Heat map visualization showing intensity of specific terrain features with corresponding value scale
+*Heat map visualization showing intensity of specific terrain features with corresponding value scale*
 
 ### Analytical Overlay
 
 
 ![generator0028_it](https://github.com/user-attachments/assets/871e405d-9a92-4633-9944-7e247cb19e15)
 
-Multi-channel representation with feature detection highlighting typical geomorphological patterns
+*Multi-channel representation with feature detection highlighting typical geomorphological patterns*
 
 
 
@@ -93,12 +93,12 @@ Example of statistical distribution metrics stored in generator0028_stats.csv :
 | terrain_gradient_magnitude| 110.756687            |           |                   |                   |
 
 Each visualization type corresponds to different analytical aspects of the same underlying data structure. Statistical distributions for these representations are available in the accompanying CSV files.
-
-*Note: The images in the repository README would display samples of your visualizations, which would be helpful for users to understand the data format without revealing your specific research methodology.*
+<br><br>
+<b>*Note: These visualizations represent different interpretations of the same underlying data patterns rather than the specific methodology used for generation.*</b>
 
 ## Usage Notes
 
-This dataset is designed for researchers working on advanced computational modeling of geomorphological features. While we've provided multiple visualization formats, the core data is contained in the JSON and NPZ files for computational use.
+This dataset is designed for researchers working on advanced computational modeling of geomorphological features. While we've provided multiple visualization formats, the core data is contained in the JSON and NPZ files for computational use.<br>
 This dataset is provided primarily for research verification purposes. The complete methodology and implementation details are available in our research paper (see citation below).
 
 ## Citation
@@ -113,7 +113,7 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3). This
 * The software is free to use and open source
 * You can modify and distribute the software
 * Commercial use requires licensing from the original authors
-
+<br>
 For full license details, see the LICENSE file.
 
 ## Full Data Access
